@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Al-Shifa Hospital",
+        "lat": 31.5204,
+        "lon": 34.4523,
+        "type": "destroyed_hospital",
+        "description": "Largely destroyed and non-functional following military operations.",
+        "source": "WHO",
+        "date_report": "2025-09-20"
+    },
+    {
+        "name": "Jabalia Camp",
+        "lat": 31.545,
+        "lon": 34.498,
+        "type": "displaced_camp",
+        "description": "Major IDP center facing severe shortages of food and water.",
+        "source": "UNRWA",
+        "date_report": "2025-10-02"
+    },
+    {
+        "name": "Khan Younis Neighborhood",
+        "lat": 31.346,
+        "lon": 34.305,
+        "type": "damaged_neighborhood",
+        "description": "Extensive damage to residential buildings and infrastructure.",
+        "source": "UNOSAT",
+        "date_report": "2025-09-15"
+    }
+]

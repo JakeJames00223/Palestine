@@ -1,0 +1,54 @@
+{
+    "stories": [
+        {
+            "title": { "en": "The Search for Water", "ar": "البحث عن الماء" },
+            "text": { 
+                "en": "Amal, a mother of three, walks five kilometers every day to find clean water for her children. 'Some days we find none,' she says. 'The fear of disease is constant.'",
+                "ar": "أمل، أم لثلاثة أطفال، تمشي خمسة كيلومترات كل يوم للعثور على مياه نظيفة لأطفالها. تقول: 'في بعض الأيام لا نجد شيئًا. الخوف من المرض دائم'."
+            },
+            "label": { "en": "Based on reports from aid workers.", "ar": "بناءً على تقارير من عمال الإغاثة." },
+            "image_url": "https://via.placeholder.com/400x200.png?text=Finding+Water",
+            "image_alt": "A woman carries containers for water in a damaged street."
+        }
+    ],
+    "ngos": [
+        {
+            "name": "UNRWA (United Nations Relief and Works Agency)",
+            "description": {
+                "en": "Provides assistance and protection for registered Palestine refugees.",
+                "ar": "تقدم المساعدة والحماية للاجئي فلسطين المسجلين."
+            },
+            "url": "https://www.unrwa.org/"
+        },
+        {
+            "name": "Médecins Sans Frontières (MSF) / Doctors Without Borders",
+            "description": {
+                "en": "Delivers emergency medical aid in conflict zones and crisis areas.",
+                "ar": "تقدم المساعدات الطبية الطارئة في مناطق النزاع والأزمات."
+            },
+            "url": "https://www.msf.org/"
+        },
+        {
+            "name": "Palestine Red Crescent Society",
+            "description": {
+                "en": "Provides emergency medical and relief services.",
+                "ar": "تقدم خدمات الطوارئ الطبية والإغاثية."
+            },
+            "url": "https://www.palestinercs.org/en"
+        }
+    ],
+    "sources": [
+        {
+            "name": "UN OCHA oPt (United Nations Office for the Coordination of Humanitarian Affairs)",
+            "report_title": "Hostilities in the Gaza Strip and Israel | Flash Update",
+            "report_url": "https://www.ochaopt.org/",
+            "api_url": "OCHA Data API / Web Scrape"
+        },
+        {
+            "name": "WHO oPt (World Health Organization)",
+            "report_title": "Situation Reports",
+            "report_url": "https://www.emro.who.int/countries/pse/index.html",
+            "api_url": "WHO Dashboard / Web Scrape"
+        }
+    ]
+}

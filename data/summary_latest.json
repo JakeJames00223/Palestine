@@ -1,0 +1,16 @@
+{
+  "source": "OCHA",
+  "url": "https://www.ochaopt.org/data/casualties",
+  "date_report": "2025-10-04",
+  "fetched_at": "2025-10-05T18:30:00Z",
+  "stats": {
+    "fatalities_total": 38145,
+    "injured_total": 85290,
+    "displaced_total": 1700000,
+    "population": 2200000,
+    "hospitals_damaged_destroyed": 26,
+    "children_malnourished": 35000,
+    "health_attacks": 427
+  },
+  "notes": "Figures are cumulative since October 7, 2023. Fatality data from Gaza MoH, reported by OCHA."
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "source": "OCHA",
+    "date_report": "2025-08-01",
+    "stats": {
+      "fatalities_total": 36500,
+      "injured_total": 81000,
+      "displaced_total": 1650000,
+      "health_attacks": 390
+    }
+  },
+  {
+    "source": "OCHA",
+    "date_report": "2025-08-15",
+    "stats": {
+      "fatalities_total": 36900,
+      "injured_total": 82100,
+      "displaced_total": 1670000,
+      "health_attacks": 401
+    }
+  },
+  {
+    "source": "OCHA",
+    "date_report": "2025-09-01",
+    "stats": {
+      "fatalities_total": 37200,
+      "injured_total": 83000,
+      "displaced_total": 1680000,
+      "health_attacks": 410
+    }
+  },
+  {
+    "source": "OCHA",
+    "date_report": "2025-09-15",
+    "stats": {
+      "fatalities_total": 37600,
+      "injured_total": 84100,
+      "displaced_total": 1690000,
+      "health_attacks": 418
+    }
+  },
+  {
+    "source": "OCHA",
+    "date_report": "2025-10-04",
+    "stats": {
+      "fatalities_total": 38145,
+      "injured_total": 85290,
+      "displaced_total": 1700000,
+      "health_attacks": 427
+    }
+  }
+]
